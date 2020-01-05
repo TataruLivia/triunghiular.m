@@ -1,0 +1,1 @@
+# triunghiular.m
